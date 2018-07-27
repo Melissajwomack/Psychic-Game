@@ -91,7 +91,7 @@ document.onkeyup = function (event) {
     if (guessesLeft < 1) {
         loses++;
         console.log("YOU LOST");
-        alert("YOU LOST...loser")
+        alert("YOU LOST")
         console.log("Number of loses: " + loses);
         resetGame();
         updateHtml();
