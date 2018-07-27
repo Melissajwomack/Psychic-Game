@@ -49,7 +49,7 @@ document.onkeyup = function (event) {
     if (userGuess === computerGuess) {
         wins++;
         console.log("YOU WON");
-        alert("YASSSS QUEEEN...you won")
+        alert("YASSSS QUEEEN...YOU WON")
         console.log("Number of wins: " + wins);
         resetGame();
         updateHtml();
@@ -60,7 +60,7 @@ document.onkeyup = function (event) {
     else if (!letterOptions.includes(userGuess)) {
 
         console.log("Not a letter key!");
-        alert("Not a letter key!...dummy");
+        alert("Not a letter key!");
         return;
         
     }
@@ -69,7 +69,7 @@ document.onkeyup = function (event) {
     else if (guessesSoFar.includes(userGuess)) {
 
         console.log("Letter already guessed!");
-        alert("Letter already guessed!...duhhh");
+        alert("Letter already guessed!");
         return;
     }
 
