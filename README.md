@@ -1,4 +1,4 @@
-# :sparkles: :crystal_ball: Psychic-Game  :crystal_ball: :sparkles:
+# :sparkles: :crystal_ball: Psychic Game  :crystal_ball: :sparkles:
 
 ## About the Game:
 
