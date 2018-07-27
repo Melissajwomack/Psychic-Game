@@ -1,0 +1,31 @@
+body {
+ background-color: white;
+}
+
+#game {
+    font-family: "Luminari", "fantasy";
+    background-color: rgb(212, 172, 212);
+    color: rgb(56, 18, 61);
+    text-align: center;
+    border: 1.5em solid rgb(56, 18, 61);
+    border-radius: 2em;
+}
+.h1 {
+    font-size: 2.5em;
+    text-align: center;
+    padding: .75em;
+}
+
+.content1 {
+    font-size: 1.5em;
+    padding: .75em;
+}
+
+.content {
+    font-size: 1.5em;
+    padding: .75em;
+}
+
+img {
+    width: 3%;
+}
