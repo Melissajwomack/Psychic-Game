@@ -1,14 +1,15 @@
 body {
- background-color: white;
+    background-color: rgb(231, 203, 231);
 }
 
+hr {
+    width: 80%;
+    border: 1px solid rgb(56, 18, 61);
+}
 #game {
     font-family: "Luminari", "fantasy";
-    background-color: rgb(212, 172, 212);
     color: rgb(56, 18, 61);
     text-align: center;
-    border: 1.5em solid rgb(56, 18, 61);
-    border-radius: 2em;
 }
 .h1 {
     font-size: 2.5em;
